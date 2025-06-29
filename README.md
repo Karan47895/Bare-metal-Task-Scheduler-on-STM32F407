@@ -1,4 +1,4 @@
-# Firesense-data-logger
+# Bare metal Task-Scheduler on STM32F407.
 
 
 In this project, I have implemented a task scheduler for managing four tasks on the STM32F407VG Discovery board using baremetal programming. The scheduler is designed to handle sensor data acquisition from multiple sensors and transmit the data to an ESP32 module for further processing.
